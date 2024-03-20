@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido no curso da Rocketseat (Discover), onde aprendi sobre HTML/CSS, JavaScript, Git, GitHub e Figma.
 </p>
 
 <p align="center">
